@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623871099804",
+    "firebase_url": "https://apna-dhadak.firebaseio.com",
+    "project_id": "apna-dhadak",
+    "storage_bucket": "apna-dhadak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623871099804:android:65903e9571d02b36aafe59",
+        "android_client_info": {
+          "package_name": "com.apnadhadak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623871099804-3m81aa86eoloq28q4qpr79gls70u6v2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOD-9a4Z5_94NOIo4wTN8Uw1VdIVGcxSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623871099804-3m81aa86eoloq28q4qpr79gls70u6v2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
